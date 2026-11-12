@@ -1,0 +1,14 @@
+{
+  "name": "desafio_teste_domino",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Testes automatizados de um jogo de domino em JavaScript",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node scripts/teste.js",
+    "coverage": "node --test --experimental-test-coverage"
+  }
+}

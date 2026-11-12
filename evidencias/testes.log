@@ -1,0 +1,31 @@
+✔ CT01 - conjunto duplo seis possui 28 pecas distintas (1.6354ms)
+✔ CT02 - entrega sete pecas para cada jogador e deixa quatorze no monte (0.3336ms)
+✔ CT03 - baralho invalido ou repetido e recusado (0.4567ms)
+✔ CT04 - primeira jogada cria a mesa, reduz a mao e alterna o turno (0.2588ms)
+✔ CT05 - peca e invertida quando entra pela ponta esquerda (0.2462ms)
+✔ CT06 - peca sem encaixe e rejeitada sem modificar o estado (0.7761ms)
+✔ CT07 - turno, indice e lado invalidos sao rejeitados (0.1957ms)
+✔ CT08 - nao permite comprar ou passar quando existe jogada (0.2417ms)
+✔ CT09 - compra sem encaixe mantem o turno e preserva as 28 pecas (0.2176ms)
+✔ CT10 - partidas deterministicas conservam as 28 pecas e terminam (5.2896ms)
+✔ CT11 - ficar sem pecas encerra com vitoria (0.4693ms)
+✔ CT12 - bloqueio escolhe a menor soma de pontos (9.0717ms)
+✔ CT13 - baralho de entrada e estado retornado sao copias defensivas (0.1511ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 300.4969
+ℹ start of coverage report
+ℹ -------------------------------------------------------------
+ℹ file         | line % | branch % | funcs % | uncovered lines
+ℹ -------------------------------------------------------------
+ℹ src          |        |          |         |
+ℹ  domino.js   | 100.00 |    96.83 |  100.00 |
+ℹ -------------------------------------------------------------
+ℹ all files    | 100.00 |    96.83 |  100.00 |
+ℹ -------------------------------------------------------------
+# end of coverage report
