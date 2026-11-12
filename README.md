@@ -1,8 +1,8 @@
 # Dominó - dois jogadores
 
-**Colaborador:** Thiago Gimenes.
+Colaborador: Gabriel Galhardone Felipe.
 
-**Identificação acadêmica:** NOME: Thiago Gimenes Santos. RA:24016862-2. TURMA: ESOFT-6S-A.
+Identificação acadêmica: NOME: Gabriel Galhardone Felipe. RA:24021292-2. TURMA: ESOFT-6S-B.
 ## Especificação do desafio
 
 Base: [desafios da disciplina](https://github.com/JoaoChoma/teste_software_2026/blob/main/desafios.md). Implementação e testes em JavaScript, conforme solicitado. Este projeto é independente e deve ser publicado em um repositório chamado **desafio_teste_domino**.
